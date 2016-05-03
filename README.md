@@ -11,10 +11,9 @@ Tested with Python 2.7 and wxPython 3.0.0.0. Currently tested only on Windows an
 This project is licensed under the MIT license.
 
 
-
 Installing on Linux:
 
 sudo apt-get install python-wxgtk git -y
-git clone https://github.com/MiguelLeandro/PythonCG.git
-cd PythonCG/src
-python pythonturtle.py
+git clone https://github.com/MIguelLeandro/PythonMCG.git
+cd PythonMCG/src
+python pythonmcg.py
