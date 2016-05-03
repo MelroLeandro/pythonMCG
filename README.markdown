@@ -13,7 +13,7 @@ This project is licensed under the MIT license.
 
 Installing on Linux:
 
-sudo apt-get install python-wxgtk git -y
-git clone https://github.com/MIguelLeandro/PythonMCG.git
-cd PythonMCG/src
-python pythonmcg.py
+  - sudo apt-get install python-wxgtk git -y
+  - git clone https://github.com/MIguelLeandro/PythonMCG.git
+  - cd PythonMCG/src
+  - python pythonmcg.py
